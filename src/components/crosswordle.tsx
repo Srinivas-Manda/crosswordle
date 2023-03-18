@@ -375,7 +375,7 @@ const Crosswordle: React.FC = () => {
       <div className="flex w-screen mx-auto items-center border-b-slate-400 border-b-[1px] p-3 md:p-4">
         <div className="grow">
           <h1 className="text-md md:text-xl font-bold whitespace-nowrap dark:text-white">
-            Crosswordle {crosswordIndex + 1}
+            WordleWord
           </h1>
 
         </div>
