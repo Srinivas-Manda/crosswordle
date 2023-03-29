@@ -24,7 +24,7 @@ export function dateFromPuzzleIndex(index: number) {
 }
 
 export function getTodaysPuzzleIndex() {
-  if (process.env.NODE_ENV === 'development') return crosswords.length - 1;
+  // if (process.env.NODE_ENV === 'development') return crosswords.length - 1;
 
   const index = getPuzzleIndexForDate(new Date());
   // Ensure we don't navigate to a puzzle that doesn't exist

@@ -3,7 +3,7 @@ import { useRef, useState } from 'react';
 
 const BREAKPOINTS = {
   xs: 414,
-  sm: 640,
+  sm: 320,
   md: 768,
   lg: 1024,
 } as const;

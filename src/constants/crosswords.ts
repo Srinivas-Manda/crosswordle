@@ -11946,6 +11946,142 @@ const crosswords: CrosswordInput[] = [
       }
     }
   },
+  {
+    across: {
+      '1': {
+        answer: 'CREDIT',
+        row: 0,
+        col: 1,
+      },
+      '5': {
+        answer: 'CHART',
+        row: 2,
+        col: 0,
+      },
+      '8': {
+        answer: 'INTERNET',
+        row: 3,
+        col: 5,
+      },
+      '9': {
+        answer: 'OPTION',
+        row: 4,
+        col: 0,
+      },
+      '11': {
+        answer: 'RISK',
+        col: 11,
+        row: 5,
+      },
+      '12': {
+        answer: 'GROWTH',
+        col: 3,
+        row: 6,
+      },
+      '14': {
+        answer: 'WEB',
+        col: 0,
+        row: 8,
+      },
+      '15': {
+        answer: 'GAP',
+        col: 7,
+        row: 8,
+      },
+      '19': {
+        answer: 'STOCK',
+        col: 0,
+        row: 10,
+      },
+      '21': {
+        answer: 'DEAL',
+        col: 8,
+        row: 11,
+      },
+      '22': {
+        answer:'LAW',
+        col: 0,
+        row: 12
+      },
+      "23" : {
+        answer: 'DOLLAR',
+        col : 4,
+        row: 12
+      },
+      "24": {
+        answer: 'FUNDS',
+        col: 10,
+        row: 13
+      },
+      "25": {
+        answer: 'MONEY',
+        row: 14,
+        col: 2
+      }
+    },
+    "down" :{
+      "2" :{
+        answer: 'EARNINGS',
+        row: 0,
+        col: 3
+      },
+      "3" : {
+        answer: 'CAREER',
+        row: 0,
+        col: 11
+      },
+      "4" : {
+        answer: 'WORLD',
+        row: 1,
+        col: 9
+      },
+      "6" : {
+        answer: 'STRATEGY',
+        row: 2,
+        col: 8
+      },
+      "7" : {
+        answer: "BANK",
+        row: 2,
+        col: 14
+      },
+      "10": {
+        answer: 'PERCENT',
+        row: 4,
+        col: 1
+      },
+      "13" : {
+        answer: 'EXIT',
+        row: 7,
+        col: 12
+      },
+      "16" : {
+        answer: "POWER",
+        row: 8,
+        col: 9
+      },
+      "17" : {
+        answer: 'REQUEST',
+        row: 9,
+        col: 14
+      },
+      "19" : {
+        answer: 'SALE',
+        row: 10,
+        col: 0
+      },
+      "20" : {
+        answer: "HOPE",
+        row : 11,
+        col : 8
+      },
+      "21" : {
+        answer: 'DATA',
+        row: 11,
+        col: 11
+      }
+    }
+  }
 ];
 
 export default crosswords;

@@ -253,7 +253,7 @@ export const Crossword = React.forwardRef<Handle, Props>(({ crosswordIndex, onMo
                 y={(cell.row + 0.5) * squareSize + margin + 3}
                 textAnchor="middle"
                 dominantBaseline="middle"
-                style={{ fill: textFill, userSelect: 'none', fontSize: '25px' }}
+                style={{ fill: textFill, userSelect: 'none', fontSize: '10px' }}
               >{letter}</text>
             )}
             {cell.circle && (
