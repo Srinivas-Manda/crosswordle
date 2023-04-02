@@ -13,6 +13,7 @@ import * as smoothscroll from 'smoothscroll-polyfill'
 import * as Sentry from '@sentry/react'
 import { BrowserTracing } from '@sentry/tracing'
 
+
 smoothscroll.polyfill()
 
 // Lazy load app to improve LCP time
